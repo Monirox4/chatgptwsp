@@ -1,0 +1,9 @@
+[0402/111044.427:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.26ad649364c0cd2a0a46.js (7)
+[0402/113248.094:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0402/113253.103:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0402/113303.114:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0402/113323.149:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0402/113426.786:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0402/113431.808:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0402/113441.831:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0402/113501.846:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.

@@ -1,0 +1,6 @@
+2023/04/02-11:10:43.903 3254 Creating DB C:\Users\jj\Desktop\chatgptwsp\whatsapp-chatgpt\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/04/02-11:10:44.061 3254 Reusing MANIFEST C:\Users\jj\Desktop\chatgptwsp\whatsapp-chatgpt\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/02-11:10:44.490 3254 Level-0 table #5: started
+2023/04/02-11:10:44.722 3254 Level-0 table #5: 9151 bytes OK
+2023/04/02-11:10:44.853 3254 Delete type=0 #3
+2023/04/02-11:10:44.854 ea0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
